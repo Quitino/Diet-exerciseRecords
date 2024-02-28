@@ -22,7 +22,7 @@
 | 早餐 | 午餐 | 晚餐 |
 | ------- | ------- |------- |
 |蛋白质+碳水+维生素+膳食纤维|蛋白质+碳水+膳食纤维|蛋白质+维生素+膳食纤维|
-|<img src="./assets/0000.jpg" width="100"> |<img src="./assets/0001.jpg" width="100"> | <img src="./assets/0002.jpg" width="100">|
+|<img src="./assets/0000.jpg" width="150"> |<img src="./assets/0001.jpg" width="150"> | <img src="./assets/0002.jpg" width="150">|
 
 
 - 优质碳水：荞麦、全麦、玉米、红薯、意大利面、紫薯、杂粮饭、土豆、南瓜、小南瓜、山药、燕麦、全麦面包等。
