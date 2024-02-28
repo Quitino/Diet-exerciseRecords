@@ -1,8 +1,8 @@
 # Diet-exerciseRecords
 
-| 日期 | <div style="text-align: center;">早餐</div>  | <div style="text-align: center;">午餐</div>  | <div style="text-align: center;">晚餐</div>  | <div style="text-align: center;">宵夜</div>  | <div style="text-align: center;">运动</div>  | <div style="text-align: center;">体重</div>  |
+| 日期 | 早餐 | 午餐 | 晚餐 | 宵夜 | 运动 | 体重 |
 | -------| ------- | ------- |------- |------- |------- |------- |
-| 20240228 | <div style="text-align: center;"><img src="./assets/240228_1.jpg" width="30"><br><font color='red'>不该吃蛋炒饭</font> </div>   | -  | | | 10km| 76.2kg|
+| 20240228 | <img src="./assets/240228_1.jpg" width="30"><br>不该吃蛋炒饭| -  | | | 10km| 76.2kg|
 |
 
 
