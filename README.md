@@ -6,8 +6,8 @@
 | 日期 | 早餐 | 午餐 | 晚餐 | 宵夜 | 运动(累计) | 体重 | 备注 |
 | -------| ------- | ------- |------- |------- |------- |------- |------- |
 |20240301|<img src="./assets/240301_1.jpg" width="200"> | --| --| --| --|--|--|
-|20240229|<img src="./assets/240229_1.jpg" width="200"><br>明天卤蛋改为白水蛋| -- | <img src="./assets/240229_3.jpg" width="200"><br>明天只吃一个素菜 | <img src="./assets/240229_5.jpg" width="200"><br>这次零食吃完就不买了| <img src="./assets/240229_2.jpg" width="200"><br>6.29km(18.68km)<br><img src="./assets/240229_4.jpg" width="200"><br>4.84km(23.52km) | <img src="./assets/240229_6.jpg" width="200"><br>74.9kg | -- |
-| 20240228 | <img src="./assets/240228_1.jpg" width="200"><br>不该吃蛋炒饭| --  |<img src="./assets/240228_3.jpg" width="200"><br>西红柿里面有糖... | <img src="./assets/240228_6.jpg" width="200"><br><img src="./assets/240228_7.jpg" width="200"><br>这次零食吃完就不买了| <img src="./assets/240228_2.jpg" width="200"><br>6.17km(6.17km)<br><img src="./assets/240228_4.jpg" width="200"><br>6.22km(12.39km)| <img src="./assets/240228_5.jpg" width="200"><br>73.6kg| 周末采购减脂餐 |
+|20240229|<img src="./assets/240229_1.jpg" width="200"><br>明天卤蛋改为白水蛋| -- | <img src="./assets/240229_3.jpg" width="200"><br>明天只吃一个素菜 | <img src="./assets/240229_5.jpg" width="200"><br>这次零食吃完就不买了|  <img src="./assets/240229_4.jpg" width="200"><br>4.84km(23.52km)<br>英里换为公里<br><img src="./assets/240229_2.jpg" width="200"><br>6.29km(18.68km)| <img src="./assets/240229_6.jpg" width="200"><br>74.9kg | -- |
+| 20240228 | <img src="./assets/240228_1.jpg" width="200"><br>不该吃蛋炒饭| --  |<img src="./assets/240228_3.jpg" width="200"><br>西红柿里面有糖... | <img src="./assets/240228_6.jpg" width="200"><br><img src="./assets/240228_7.jpg" width="200"><br>这次零食吃完就不买了| <img src="./assets/240228_4.jpg" width="200"><br>6.22km(12.39km)<br><img src="./assets/240228_2.jpg" width="200"><br>6.17km(6.17km)| <img src="./assets/240228_5.jpg" width="200"><br>73.6kg| 周末采购减脂餐 |
 
 
 
