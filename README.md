@@ -5,7 +5,8 @@
 
 | 日期 | 早餐 | 午餐 | 晚餐 | 宵夜 | 运动(累计) | 体重 | 备注 |
 | -------| ------- | ------- |------- |------- |------- |------- |------- |
-|20240305|<img src="./assets/240305_1.jpg" width="200">|--|<img src="./assets/240305_3.jpg" width="200">|--|<img src="./assets/240305_7.jpg" width="200"><br>5.30km(62.62km)<br><img src="./assets/240305_6.jpg" width="200"><br>5.30km(62.62km)|<img src="./assets/240305_5.jpg" width="200">|--|
+|20240306|<img src="./assets/240306_1.jpg" width="200">|--|<img src="./assets/240306_3.jpg" width="200">|--|<img src="./assets/240306_7.jpg" width="200"><br>5.30km(62.62km)<br><img src="./assets/240306_6.jpg" width="200"><br>5.30km(62.62km)|<img src="./assets/240306_5.jpg" width="200">|--|
+|20240305|<img src="./assets/240305_1.jpg" width="200">|--|<img src="./assets/240305_3.jpg" width="200">|--|<img src="./assets/240305_6.jpg" width="200"><br>5.30km(62.62km)|<img src="./assets/240305_5.jpg" width="200">|--|
 |20240304|<img src="./assets/240304_1.jpg" width="200">|--|<img src="./assets/240304_3.jpg" width="200">|--|<img src="./assets/240304_7.jpg" width="200"><br>6.02km(57.32km)<br><img src="./assets/240304_6.jpg" width="200"><br>6.45km(51.30km)|<img src="./assets/240304_5.jpg" width="200"><br>73.35kg|--|
 |20240303|--|<img src="./assets/240303_1.jpg" width="200">|<img src="./assets/240303_3.jpg" width="200">|<img src="./assets/240303_5.jpg" width="200">| <img src="./assets/240303_2.jpg" width="100"><br>11.12km(44.85km)|<img src="./assets/240303_4.jpg" width="200"><br>74.5kg|--|
 |20240302|--|--|<img src="./assets/240302_1.jpg" width="200">|<img src="./assets/240302_2.jpg" width="200">|--|<img src="./assets/240302_3.jpg" width="200"><br>74.7kg|--|
