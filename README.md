@@ -5,7 +5,10 @@
 
 | 日期 | 早餐 | 午餐 | 晚餐 | 宵夜 | 运动(累计) | 体重 | 备注 |
 | -------| ------- | ------- |------- |------- |------- |------- |------- |
-|20240308|<img src="./assets/240308_1.jpg" width="200"><br>早饭吃太多了，明日减半|--|<img src="./assets/240308_3.jpg" width="200">|--|<img src="./assets/240308_6.jpg" width="200"><br>5.30km(73.19km)|<img src="./assets/240308_5.jpg" width="200"><br>73.55kg||
+|20240311|<img src="./assets/240311_1.jpg" width="200">|--|<img src="./assets/240311_3.jpg" width="200">|--|<img src="./assets/240311_6.jpg" width="200"><br>5.64km(78.83km)|<img src="./assets/240311_5.jpg" width="200"><br>73.80kg|十几天了没动静，饮食要继续减少|
+|20240310|--|--|<img src="./assets/240310_3.jpg" width="200">|--|<img src="./assets/240310_6.jpg" width="200"><br>11.00km(89.83km)|<img src="./assets/240310_5.jpg" width="200"><br>74.10kg|--|
+|20240309|<img src="./assets/240309_2.jpg" width="200"><br>|--|<img src="./assets/240309_3.jpg" width="200">|--|--|<img src="./assets/240309_5.jpg" width="200"><br>73.50kg|--|
+|20240308|<img src="./assets/240308_1.jpg" width="200"><br>早饭吃太多了，明日减半|--|<img src="./assets/240308_3.jpg" width="200">|--|<img src="./assets/240308_6.jpg" width="200"><br>5.64km(78.83km)|<img src="./assets/240308_5.jpg" width="200"><br>73.80kg|--|
 |20240307|<img src="./assets/240307_1.jpg" width="200">|--|<img src="./assets/240307_3.jpg" width="200">|--|<img src="./assets/240307_6.jpg" width="200"><br>5.30km(73.19km)|<img src="./assets/240307_5.jpg" width="200"><br>73.55kg|感觉吃得有点多，没有饥饿感|
 |20240306|<img src="./assets/240306_1.jpg" width="200">|--|<img src="./assets/240306_3.jpg" width="200">|--|<img src="./assets/240306_6.jpg" width="200"><br>5.27km(67.89km)|<img src="./assets/240306_5.jpg" width="200"><br>73.45kg|--|
 |20240305|<img src="./assets/240305_1.jpg" width="200">|--|<img src="./assets/240305_3.jpg" width="200">|--|<img src="./assets/240305_6.jpg" width="200"><br>5.30km(62.62km)|<img src="./assets/240305_5.jpg" width="200"><br>74.20kg|--|
